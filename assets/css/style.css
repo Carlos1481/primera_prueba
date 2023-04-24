@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Cedarville Cursive', cursive;
+    background-color: black;
+
+}
+
+.navbar {
+    background-color: black;
+    
+}
+
+.d-item {
+
+    height: 700px;
+}
+
+.seccion1 {
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    width: 150px;
+}
+
+
+
+.text1 {
+text-align: center;
+background-color: black;
+padding: 30px;
+}
+
+.text2 {
+    text-align: center;
+    padding: 30px;
+}
+.container2 {
+    width:50px;
+}
+.text3 {
+    text-align: center;
+    padding: 30;
+}
+.formulario1 {
+    width: 80%;
+    padding: 20px;
+    margin-inline: 50px ;
+}
+
+.logos {
+    background-color: aqua;
+}
