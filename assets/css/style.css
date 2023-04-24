@@ -12,6 +12,9 @@
     background-color: black;
     
 }
+.nav-item {
+    font-size: 20px;
+}
 
 .d-item {
 
@@ -21,14 +24,14 @@
 .seccion1 {
     background-color: black;
     text-align: center;
-    justify-content: center;
-    width: 150px;
+    justify-content: right;
+    width: 2000px;
 }
 
 
 
 .text1 {
-text-align: center;
+text-align:center ;
 background-color: black;
 padding: 30px;
 }
@@ -36,6 +39,19 @@ padding: 30px;
 .text2 {
     text-align: center;
     padding: 30px;
+}
+
+.parrafo1 {
+    text-align: left;
+}
+
+.parrafo2 {
+    text-align:left;
+    }
+
+.parrafo3 {
+    text-align: left;
+
 }
 .container2 {
     width:50px;
